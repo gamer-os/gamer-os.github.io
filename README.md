@@ -1,6 +1,4 @@
 ![Logo](https://avatars3.githubusercontent.com/u/51765619?s=88&v=4)
-# GamerOS
-### The definitive couch gaming experience
 
 [Download & Install](#download--install)
 
