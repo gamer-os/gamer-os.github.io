@@ -51,10 +51,12 @@ out of the box support for playing NES, SNES, Genesis, N64, PlayStation, Wii, St
 
 
 ## Download & Install
+ - confirm the [requirements](#requirements)
  - download the installation iso from [here](https://github.com/gamer-os/install-media/releases/download/2019-09-09/gameros-2019.09.09-x86_64.iso)
  - use [etcher](https://www.balena.io/etcher) to flash the iso file to a usb stick
  - make sure you have a wired internet connection
  - boot from the usb stick
+ - try turning off legacy/CSM mode in the bios settings if the installer does not start
  - follow the installer directions
 
 
