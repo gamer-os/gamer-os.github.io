@@ -62,14 +62,8 @@ out of the box support for playing NES, SNES, Genesis, N64, PlayStation, Wii, St
  - follow the installer directions
 
 
-## Discord
-
-You can join our community [here](https://discord.gg/fKsUbrt)!
-
-
-## Steam
- - Join the [Steam group](https://steamcommunity.com/groups/gamer-os)
- - Follow our [curator](https://store.steampowered.com/curator/35483972-gamer-os) to get information on games fully tested for out of the box compatibility with GamerOS
+## Steam Curator
+Follow our [curator](https://store.steampowered.com/curator/35483972-gamer-os) to get information on games fully tested for out of the box compatibility with GamerOS
 
 
 ## Screenshots
