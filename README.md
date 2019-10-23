@@ -1,6 +1,6 @@
 ![Logo](https://avatars3.githubusercontent.com/u/51765619?s=88&v=4)
 
-[![Twitter](icons/twitter.png)](https://twitter.com/GamerOS38114544) [![Steam](icons/steam.png)](https://steamcommunity.com/groups/gamer-os)
+[![Twitter](icons/twitter.png)](https://twitter.com/GamerOS38114544) [![Steam](icons/steam.png)](https://steamcommunity.com/groups/gamer-os) [![Discord](icons/discord.png)](https://discord.gg/fKsUbrt)
 
 [Download & Install](#download--install)
 
