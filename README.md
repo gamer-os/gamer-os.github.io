@@ -1,5 +1,7 @@
 ![Logo](https://avatars3.githubusercontent.com/u/51765619?s=88&v=4)
 
+[![Twitter](icons/twitter.png)](https://twitter.com/GamerOS38114544) [![Steam](icons/steam.png)](https://steamcommunity.com/groups/gamer-os)
+
 [Download & Install](#download--install)
 
 ## What is it?
