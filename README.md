@@ -40,7 +40,7 @@ fully controller compatible interface with no mouse or keyboard required (but yo
 support for Xbox 360, Xbox One, DualShock 4, Switch Pro, Steam controllers and more (compatibility varies by game)
 
 ### play any game
-out of the box support for installing and playing non-Steam games using [Steam Buddy](https://github.com/gamer-os/steam-buddy)
+out of the box support for installing and playing non-Steam games using [Steam Buddy](https://github.com/gamer-os/steam-buddy/blob/master/README.md)
 
 
 ## Requirements
