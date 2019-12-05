@@ -45,18 +45,16 @@ out of the box support for installing and playing non-Steam games using [Steam B
 
 ## Requirements
  - a dedicated computer (dual booting not supported)
- - a wired internet connection
  - **4GB** or more RAM
  - a single **20GB** or larger storage device
  - a single connected TV or monitor with a resolution of 720p, 1080p, or 2160p
- - connected keyboard required for installation only
 
 
 ## Download & Install
  - confirm the [requirements](#requirements)
  - download the installation iso from [here](https://github.com/gamer-os/install-media/releases/download/2019-11-02/gameros-2019.11.02-x86_64.iso)
  - use [etcher](https://www.balena.io/etcher) to flash the iso file to a usb stick
- - make sure you have a wired internet connection
+ - make sure to connect a keyboard and have a wired internet connection (only required for installation and first boot)
  - boot from the usb stick
  - try turning off legacy/CSM mode in the bios settings if the installer does not start
  - follow the installer directions
