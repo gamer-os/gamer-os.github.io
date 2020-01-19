@@ -25,7 +25,7 @@ boot into your new gaming system within minutes
 only what you need to play games and nothing more
 
 ### out of the box
-start gaming right away with zero configuration
+start gaming right away with zero configuration thanks to [Steam Tweaks](https://github.com/gamer-os/steam-tweaks/blob/master/README.md)
 
 ### always up to date
 frequent updates delivering the latest drivers and software for an optimal experience
