@@ -34,7 +34,7 @@ frequent updates delivering the latest drivers and software for an optimal exper
 fully automatic updates that run in the background without disrupting gameplay ([more info](https://github.com/gamer-os/frzr))
 
 ### controller first
-fully controller compatible interface with no mouse or keyboard required (but you can still use a mouse and keyboard if you really want to)
+fully controller compatible interface with no mouse or keyboard required (but you can still use a mouse and keyboard if you want to)
 
 ### use any controller
 support for Xbox 360, Xbox One, DualShock 4, Switch Pro, Steam controllers and more (compatibility varies by game)
@@ -53,9 +53,9 @@ out of the box support for installing and playing non-Steam games using [Steam B
 ## Download & Install
  - confirm the [requirements](#requirements)
  - download the installation iso from [here](https://github.com/gamer-os/install-media/releases/download/2019-11-02/gameros-2019.11.02-x86_64.iso)
- - use [etcher](https://www.balena.io/etcher) to flash the iso file to a usb stick
+ - use [etcher](https://www.balena.io/etcher) to flash the iso file to a USB stick
  - make sure to connect a keyboard and have a wired internet connection (only required for installation and first boot)
- - boot from the usb stick
+ - boot from the USB stick
  - try turning off legacy/CSM mode in the bios settings if the installer does not start
  - follow the installer directions
 
