@@ -9,6 +9,8 @@ GamerOS is an operating system focused on an out of the box couch gaming experie
 
 If you want Steam in your living room, you want GamerOS.
 
+## Roadmap
+See the GitHub [project](https://github.com/orgs/gamer-os/projects/1) for the current state of things and what is coming up next.
 
 ## Known Issues
 See the GitHub [issues](https://github.com/gamer-os/gamer-os/issues) for a list of current limitations and bugs.
