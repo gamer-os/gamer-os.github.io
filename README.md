@@ -20,28 +20,28 @@ A list of answers to frequently asked questions is available on our [FAQ](https:
 
 ## Features
 
-### easy to install
+### ● easy to install
 boot into your new gaming system within minutes
 
-### minimal
+### ● minimal
 only what you need to play games and nothing more
 
-### out of the box
+### ● out of the box
 start gaming right away with zero configuration thanks to [Steam Tweaks](https://github.com/gamer-os/steam-tweaks/blob/master/README.md)
 
-### always up to date
+### ● always up to date
 frequent updates delivering the latest drivers and software for an optimal experience
 
-### zero downtime updates
+### ● zero downtime updates
 fully automatic updates that run in the background without disrupting gameplay ([more info](https://github.com/gamer-os/frzr))
 
-### controller first
+### ● controller first
 fully controller compatible interface with no mouse or keyboard required (but you can still use a mouse and keyboard if you want to)
 
-### use any controller
+### ● use any controller
 support for Xbox 360, Xbox One, DualShock 4, Switch Pro, Steam controllers and more (compatibility varies by game)
 
-### play any game
+### ● play any game
 out of the box support for installing and playing non-Steam games using [Steam Buddy](https://github.com/gamer-os/steam-buddy/blob/master/README.md)
 
 
