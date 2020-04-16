@@ -50,15 +50,16 @@ out of the box support for installing and playing non-Steam games using [Steam B
  - **4GB** or more RAM
  - a single **20GB** or larger storage device
  - a single connected TV or monitor with a resolution of 720p, 1080p, or 2160p
+ - a keyboard and wired internet connection are required for installation and first boot only
 
 
 ## Download & Install
  - confirm the [requirements](#requirements)
  - download the installation iso from [here](https://github.com/gamer-os/install-media/releases/download/2020-03-12/gameros-2020.03.12-x86_64.iso)
  - use [etcher](https://www.balena.io/etcher) to flash the iso file to a USB stick
- - make sure to connect a keyboard and have a wired internet connection (only required for installation and first boot)
+ - make sure to connect a keyboard and have a wired internet connection
  - boot from the USB stick
- - try turning off legacy/CSM mode in the bios settings if the installer does not start
+ - try turning off legacy/CSM mode in the bios settings if the installer fails to start
  - follow the installer directions
 
 
