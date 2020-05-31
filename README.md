@@ -39,7 +39,7 @@ fully automatic OS updates that run in the background without disrupting gamepla
 fully controller compatible interface with no mouse or keyboard required (but you can still use a mouse and keyboard if you want to)
 
 ### ● use any controller
-support for Xbox 360, Xbox One, DualShock 4, Switch Pro, Steam controllers and more (compatibility varies by game)
+support for Xbox 360, Xbox One, DualShock 3 & 4, Switch Pro, Steam controllers and more (compatibility varies by game)
 
 ### ● play any game
 out of the box support for installing and playing non-Steam games using [Steam Buddy](https://github.com/gamer-os/steam-buddy/blob/master/README.md)
