@@ -5,18 +5,9 @@
 [Download & Install](#download--install)
 
 ## What is it?
-GamerOS is an operating system focused on an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games.
+GamerOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games.
 
-If you want Steam in your living room, you want GamerOS.
-
-## Roadmap
-See the GitHub [project](https://github.com/orgs/gamer-os/projects/1) for the current state of things and what is coming up next.
-
-## Known Issues
-See the GitHub [issues](https://github.com/gamer-os/gamer-os/issues) for a list of current limitations and bugs.
-
-## FAQ
-A list of answers to frequently asked questions is available on our [FAQ](https://github.com/gamer-os/gamer-os/wiki/FAQ) wiki page.
+If you want Steam in your living room, you need GamerOS.
 
 ## Features
 
@@ -30,10 +21,10 @@ only what you need to play games and nothing more
 start gaming right away with zero configuration thanks to [Steam Tweaks](https://github.com/gamer-os/steam-tweaks/blob/master/README.md)
 
 ### ● always up to date
-frequent updates delivering the latest drivers and software for an optimal experience
+regular updates delivering the latest drivers and software for an optimal experience
 
 ### ● zero downtime updates
-fully automatic OS updates that run in the background without disrupting gameplay ([more info](https://github.com/gamer-os/frzr))
+fully automatic updates that run in the background without disrupting gameplay ([more info](https://github.com/gamer-os/frzr))
 
 ### ● controller first
 fully controller compatible interface with no mouse or keyboard required (but you can still use a mouse and keyboard if you want to)
@@ -55,13 +46,21 @@ out of the box support for installing and playing non-Steam games using [Steam B
 
 ## Download & Install
  - confirm the [requirements](#requirements)
- - download the installation iso from [here](https://github.com/gamer-os/install-media/releases/download/2020-05-28/gameros-2020.05.28-x86_64.iso)
+ - download the [installation iso](https://github.com/gamer-os/install-media/releases/download/2020-05-28/gameros-2020.05.28-x86_64.iso)
  - use [etcher](https://www.balena.io/etcher) to flash the iso file to a USB stick
  - make sure to connect a keyboard and have a wired internet connection
  - boot from the USB stick
  - try turning off legacy/CSM mode in the bios settings if the installer fails to start
  - follow the installer directions
 
+## Roadmap
+See the GitHub [project](https://github.com/orgs/gamer-os/projects/1) for the current state of things and what is coming up next.
+
+## FAQ
+A list of answers to frequently asked questions is available on our [FAQ](https://github.com/gamer-os/gamer-os/wiki/FAQ) wiki page.
+
+## Known Issues
+See the GitHub [issues](https://github.com/gamer-os/gamer-os/issues) for a list of current limitations and bugs.
 
 ## Steam Curator
 Follow our [curator](https://store.steampowered.com/curator/35483972-gamer-os) to get information on games fully tested for out of the box compatibility with GamerOS
