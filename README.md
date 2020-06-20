@@ -4,6 +4,8 @@
 
 [Download & Install](#download--install)
 
+[Support me on Patreon](https://www.patreon.com/alkazar)
+
 ## What is it?
 GamerOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games.
 
