@@ -39,12 +39,13 @@ out of the box support for installing and playing non-Steam games using [Steam B
 
 
 ## Requirements
- - a dedicated physical computer (dual booting not supported, virtual machines not supported)
  - **4GB** or more RAM
- - a single **20GB** or larger storage device
+ - a single dedicated **20GB** or larger storage device
  - a single connected TV or monitor with a resolution of 720p, 1080p, or 2160p
  - a keyboard and wired internet connection are required for installation and first boot only
-
+ - installing to a disk alongside another operating system is not supported
+ - hybrid graphics is not supported
+ - virtual machines are not supported
 
 ## Download & Install
  - confirm the [requirements](#requirements)
