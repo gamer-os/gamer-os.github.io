@@ -49,7 +49,7 @@ out of the box support for installing and playing non-Steam games using [Steam B
 
 ## Download & Install
  - confirm the [requirements](#requirements)
- - download the [installation iso](https://github.com/gamer-os/install-media/releases/download/2020-05-28/gameros-2020.05.28-x86_64.iso)
+ - download the [installation iso](https://github.com/gamer-os/install-media/releases/download/2020-10-02/gameros-2020.10.02-x86_64.iso)
  - use [etcher](https://www.balena.io/etcher) to flash the iso file to a USB stick
  - make sure to connect a keyboard and have a wired internet connection
  - boot from the USB stick
