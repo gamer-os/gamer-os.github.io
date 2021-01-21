@@ -45,6 +45,7 @@ out of the box support for installing and playing non-Steam games using [Steam B
  - a single connected TV or monitor with a resolution of 720p, 1080p, or 2160p
  - a keyboard and wired internet connection are required for installation and first boot only
  - installing to a single disk alongside another operating system is not supported
+ - secure boot must be disabled
  - hybrid graphics are not supported
  - virtual machines are not supported
 
